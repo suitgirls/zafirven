@@ -10,3 +10,6 @@ a {color: rgb(62, 207, 212);    font-family: Verdana, Geneva, Tahoma, sans-serif
 nav a {color:crimson}
 nav {color:hotpink}
 nav a:hover {background-color:rgb(241, 24, 241)}
+nav {padding: 10px;
+    margin-bottom: 30px;
+background-color:darksalmon}
