@@ -13,7 +13,7 @@ nav a:hover {background-color:rgb(241, 24, 241)}
 div {
     border: 1px salmon;
     margin: 30px;
-    background-color:cadetblue;
+    background-color:rgb(221, 184, 202);
     border-radius: 25px;
 }
 nav {padding: 10px;
